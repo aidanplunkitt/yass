@@ -1,0 +1,6 @@
+c simplified DIMACS format from http://www.satcompetition.org/2009/format-benchmarks2009.html
+c 3 variables, 3 clauses
+p cnf 3 3
+1 0
+2 3 0 
+-3 0
